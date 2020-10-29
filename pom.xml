@@ -60,7 +60,6 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-
 		</dependency>
 
 		<dependency>
@@ -73,10 +72,7 @@
 			<artifactId>springdoc-openapi-ui</artifactId>
 			<version>1.4.8</version>
 		</dependency>
-
-
 	</dependencies>
-
 
 	<build>
 		<plugins>
